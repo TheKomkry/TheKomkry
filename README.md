@@ -16,7 +16,7 @@ Hi there! My name is Kryštof, I'm a developer from :czech_republic: Czech Repub
 
 ## Currently working on
 - Purkiáda 2023 - Similar to last year. Current theme is "Virus".
-- [Flamma Candles](https://flamma-candles.netlify.app/) - Website for a friend's school candle business. Currently wainting for the client to send me the content.
+- [Flamma Candles](https://flamma-candles.netlify.app/) - Website for a friend's school candle business. Currently waiting for the client to send me the content.
 <!-- ## Education
 
 - Bachelor's degree in Computer Science from XYZ University -->
