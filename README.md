@@ -13,6 +13,7 @@ Hi there! My name is Kryštof, I'm a developer from :czech_republic: Czech Repub
 ## Finished projects
 - [U Tlustýho Kováře](https://utlustyhokovare.cz) - Website for a local restaurant.
 - [Purkiáda 2022](https://whpurkiada.netlify.app) - Web app for my school's annual competition. To solve this you need to know Czech language.
+- [Grade Calculator](https://github.com/TheKomkry/GradeCalculator) - Simple GUI application built using the Tkinter library in Python that allows a user to input grades and their respective weights and calculates the weighted average of those grades.
 
 ## Currently working on
 - Purkiáda 2023 - Similar to last year. Current theme is "Virus".
