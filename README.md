@@ -25,4 +25,5 @@ Hi there! My name is Kryštof, I'm a developer from :czech_republic: Czech Repub
 ## Contact
 
 - Email: [komkry@seznam.cz](mailto:komkry@seznam.cz)
+- Discord: Komkry#0630
 <!-- - LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/username) -->
