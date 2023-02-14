@@ -15,9 +15,9 @@ Hi there! My name is Kryštof, I'm a developer from :czech_republic: Czech Repub
 - [Purkiáda 2022](https://whpurkiada.netlify.app) - Web app for my school's annual competition. Full of fun ciphers + our tools to solve them. For some ciphers you even need to use our version of enigma. To solve this you need to know Czech language. <br> *Login details: `username: admin` `password: whteam`*
 - [Grade Calculator](https://github.com/TheKomkry/GradeCalculator) - Simple GUI application built using the Tkinter library in Python that allows a user to input grades and their respective weights and calculates the weighted average of those grades.
 - [Tic-Tac-Toe Web Game](https://komkry-tic-tac-toe.netlify.app/) - Simple web game built using HTML, CSS and JavaScript. The game is local multiplayer only. [Source code](https://github.com/TheKomkry/TIC-TAC-TOE)
+- [Purkiáda 2023](https://weebhubpurkiada2023.netlify.app/) - Similar to last year. Current theme is "Virus". 
 
 ## Currently working on
-- Purkiáda 2023 - Similar to last year. Current theme is "Virus".
 - [Flamma Candles](https://flamma-candles.netlify.app/) - Website for a friend's school candle business. Currently waiting for the client to send me the content.
 <!-- ## Education
 
