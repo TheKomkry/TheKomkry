@@ -11,7 +11,7 @@ Hi there! My name is Kryštof, I'm a developer from :czech_republic: Czech Repub
 - ![Java](https://cdn-icons-png.flaticon.com/16/5968/5968282.png) Java
 
 ## Finished projects
-- [U Tlustýho Kováře](https://utlustyhokovare.cz) - Website for a local restaurant.
+- [U Tlustýho Kováře](https://utlustyhokovare.cz) - Website for a local restaurant. Still managing the site.
 - [Purkiáda 2022](https://whpurkiada.netlify.app) - Web app for my school's annual competition. Full of fun ciphers + our tools to solve them. For some ciphers you even need to use our version of enigma. To solve this you need to know Czech language. <br> *Login details: `username: admin` `password: whteam`*
 - [Grade Calculator](https://github.com/TheKomkry/GradeCalculator) - Simple GUI application built using the Tkinter library in Python that allows a user to input grades and their respective weights and calculates the weighted average of those grades.
 - [Tic-Tac-Toe Web Game](https://komkry-tic-tac-toe.netlify.app/) - Simple web game built using HTML, CSS and JavaScript. The game is local multiplayer only. [Source code](https://github.com/TheKomkry/TIC-TAC-TOE)
